@@ -1,4 +1,4 @@
-!["nadhir ben lazhar نذير بن لزهر"](https://benlazhar.com/i/nadhir-ben-lazhar-logo.jpg "nadhir ben lazhar نذير بن لزهر")
+!["nadhir ben lazhar نذير بن لزهر"](https://github.com/NadhirBenLazhar/NadhirBenLazhar/raw/main/nadhir-ben-lazhar-cover.jpg "nadhir ben lazhar نذير بن لزهر")
 
 ```
 
